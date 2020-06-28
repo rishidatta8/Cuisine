@@ -1,0 +1,360 @@
+#title{
+  font-family: 'Sacramento', cursive;
+  font-size: 14rem;
+  text-align: center;
+  color: #e79c2a;
+  color: #fbd46d;
+  letter-spacing: 2px;
+  text-decoration: none;
+  height: 140px;
+  padding-top: 20px;
+  margin-top: 0;
+}
+
+
+.home_page{
+  height: 100%;
+  /* background-color: red; */
+  margin-bottom: 30px;
+  background-image: url("9a25f2_5b06f362a68c412580d28d5156c0afd1.jpg");
+  text-align: center;
+  width: 100%;
+}
+/* .container{
+  height: 66%;
+  width: 85%;
+} */
+
+body{
+  background-color: #f4f6ff;
+  height: 100%;
+}
+
+/* .carousel,.item
+{
+  height: 100%;
+  width: 100%;
+} */
+
+/* .car_image{
+  height : 60%;
+  width: 100%;
+} */
+
+/* .container{
+  height:auto;
+}
+.item
+{
+  height: 60%;
+  width: 100%;
+}
+
+.car_image
+{
+  height: 10%;
+  width: 100%;
+} */
+
+
+
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
+.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm,
+.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md,
+.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg,
+.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl,
+.col-xl-auto {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.col-6 {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.col-lg-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+
+
+
+  h2 {
+
+    color : #ffcb74;
+    font-family: 'Pangolin', cursive;
+    font-size: 4.3rem;
+    padding-bottom: 30px;
+    padding-top: 20px;
+  }
+
+
+    /* .container
+  {
+    margin: 0px;
+    padding: 0;
+    width: 100%;
+  }
+
+.item
+{
+  width: 50%;
+  align-items: center;
+  margin: auto;
+  height: 100%;
+}
+
+.carousel
+{
+  height: 458px;
+  width: 100%;
+  margin: 0;
+} */
+
+.carousel,.item
+{
+  width: 85%;
+}
+.item
+{
+  margin: auto;
+  width: 100%;
+  height: 60%;
+}
+
+.carousel
+{
+  margin-left: 100px;
+}
+
+
+
+
+.heading_2
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 12rem;
+  text-align: center;
+  color: #e79c2a;
+  text-decoration: none;
+  height: 150px;
+  padding-bottom: 50px;
+}
+
+
+
+.page2
+{
+  width: 99%;
+}
+
+
+.page2_image_right
+{
+  float: right;
+  width: 285px;
+  height: 145px;
+  margin: 15px;
+  position: relative;
+  border-radius: 50%;
+  width: 227px;
+  height: 191px;
+}
+.page2_image_left
+{
+  float: left;
+  width: 285px;
+  height: 145px;
+  margin: 20px;
+}
+
+.skill-row{
+  padding: 30px 0px;
+}
+
+
+.cousine-rows
+{
+  padding: 0 20px;
+}
+
+
+/* .skill-row-left
+{
+  text-align: left;
+}
+
+.skill-row-right
+{
+  text-align: right;
+} */
+
+.skill-row-right,.skill-row-left
+{
+  height: 160px;
+  margin: 100px 83px;
+}
+
+
+
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 900;
+  line-height: 35px;
+  font-size: 15px;
+}
+
+
+h3
+{
+  font-family: 'Balsamiq Sans', cursive;
+  font-weight: bold;
+  font-size: 37px;
+}
+
+
+.p2images
+{
+  position: relative;
+  border-radius: 50%;
+  width: 224px;
+  height: 200px;
+}
+
+
+.indian
+{
+  top: -38px;
+  left: 30px;
+  margin-left: 0;
+}
+.italian{
+  top: -48px;
+  left: -42px;
+  margin-left: 0px;
+  margin-right: 0;
+}
+
+.japanese
+{
+  top: -17px;
+  right: -27px;
+}
+.spanish
+{
+  margin-left: 0;
+  top: -20px;
+  left: -45px;
+}
+
+.page2
+{
+  margin-top: 51px;
+}
+
+hr {
+    scroll-behavior: smooth;
+    border-style: dotted;
+    width: 193px;
+    border-width: 7px;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color: grey;
+    margin: 78px auto 58px;
+}
+
+
+.page1-5
+{
+  height: 78%;
+  width: 100%;
+}
+.container
+{
+  width: 84%;
+  margin: 0;
+  padding: 0;
+}
+
+.carousel
+{
+  height: 600px;
+  width: 119%;
+  margin: 0;
+}
+
+.page2
+{
+  /* background-color: red; */
+}
+.item
+{
+  height: 600px;
+  width: auto;
+}
+
+.messed-up
+{
+  height: 600px;
+  width: 100%;
+}
+
+/* .three
+{
+  height: 800px;
+  width: 100%;
+} */
+
+
+#title,h2
+{
+  padding-left: 30px;
+}
+
+
+.last-page
+{
+  text-align: center;
+  height: 390px;
+}
+
+.last-one
+{
+  font-family: 'Balsamiq Sans', cursive;
+  padding: 150px 0px 50px;
+  font-size: 4.4rem;
+  line-height: 70px;
+  color: black;
+}
+
+.author
+{
+  color: black;
+  font-size: 2.5rem;
+  padding-left: 900px;
+}
+
+
+
+.slast
+{
+  text-align: center;
+}
+.reservation
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 10rem;
+  text-align: center;
+  color: #e79c2a;
+  color: #fbd46d;
+  letter-spacing: 0.5px;
+}

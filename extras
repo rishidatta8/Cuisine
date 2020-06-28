@@ -1,0 +1,47 @@
+<div class="column col-lg-6">
+  <div class="card" style="width:400px">
+    <!-- <div class="card" style="width:400px"> -->
+        <img class="card-img-top" src="Indian/indian.jpg" alt="Card image" style="width:100%; height: 20%;">
+        <div class="card-body">
+          <h2 class="card-title">Indian cuisine</h2>
+          <a href="Indian/indian.html" class="btn btn-danger stretched-link">Explore</a>
+        <!-- </div> -->
+      </div>
+  </div>
+</div>
+
+<div class="column col-lg-6">
+  <div class="card" style="width:400px">
+    <!-- <div class="card" style="width:400px"> -->
+        <img class="card-img-top" src="Italian/Italian.jpg" alt="Card image" style="width:100%; height: 20%;">
+        <div class="card-body">
+          <h2 class="card-title">Italian cuisine</h2>
+          <a href="Italian/italian.html" class="btn btn-danger stretched-link">Explore</a>
+        <!-- </div> -->
+      </div>
+  </div>
+</div>
+
+<div class="column col-lg-6">
+  <div class="card" style="width:400px">
+    <!-- <div class="card" style="width:400px;"> -->
+        <img class="card-img-top" src="Japan/japan.jpg" alt="Card image" style="width:100%; height: 20%;">
+        <div class="card-body">
+          <h2 class="card-title">Japanese cuisine</h2>
+          <a href="Japan/japanese.html" class="btn btn-danger stretched-link">Explore</a>
+        <!-- </div> -->
+      </div>
+  </div>
+</div>
+
+<div class="column col-lg-6">
+  <div class="card" style="width:400px">
+    <!-- <div class="card" style="width:400px"> -->
+        <img class="card-img-top" src="spanish/spanish foods.jpeg" alt="Card image" style="width:100%; height: 20%;">
+        <div class="card-body">
+          <h2 class="card-title">Spanish cuisine</h2>
+          <a href="spanish/spanish.html" class="btn btn-danger stretched-link">Explore</a>
+        <!-- </div> -->
+      </div>
+  </div>
+</div>

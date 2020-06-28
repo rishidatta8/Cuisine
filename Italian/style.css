@@ -1,0 +1,36 @@
+.title
+{
+  font-family: 'Poppins', sans-serif;
+  font-size: 105px;
+  letter-spacing: 4px;
+  padding-top: 20px;
+}
+
+
+.para1,.para2
+{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1.4rem;
+  line-height: 33px;
+}
+
+.para1
+{
+  margin-top: -24px;
+}
+
+body
+{
+  background-color: #ffcb74;
+  margin: auto 20px;
+  text-align: center;
+}
+img
+{
+  align-items: center;
+}
+
+.img2
+{
+      margin: 35px 25%;
+}
